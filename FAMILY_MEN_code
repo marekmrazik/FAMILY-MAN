@@ -1817,7 +1817,7 @@ where ch_em_yn='Y'
 
 
 
-/*
+/*  QA counts, insert results here https://docs.google.com/spreadsheets/d/1gvnzJB0cmCe7jxrB1d81JJ3PufgfVwh54tDoVFcdwFk/edit#gid=2014116307
 --EM
 SELECT TC, HERO_MESSAGE,
 	MESSAGE2,
